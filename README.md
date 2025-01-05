@@ -166,11 +166,8 @@ We welcome contributions to enhance the WHC Platform. To contribute:
 ## Contact
 
 For questions, issues, or feedback, feel free to contact the project maintainer:
-- Email: [zahidawais331@gmail.com](mailto:your-zahidawais31#gmail.com)
+- Email: [zahidawais31@gmail.com](mailto:your-zahidawais31#gmail.com)
 - GitHub: [github.com/AwaisZahid331](https://github.com/AwaisZahid331)
 
 ---
 
-```
-
-This markdown document contains everything in a single file, and you can copy it directly into your project's README or documentation file. This way, all the details like features, technologies, system architecture, installation instructions, and contact info are included in one place for easy access.
