@@ -115,7 +115,7 @@ npm install
 
 Create a MongoDB Atlas account and set up a new cluster.
 Obtain the connection URI and replace it in the .env file inside the backend directory.
-Example .env:
+ ```bash
 DB_URI=mongodb+srv://username:<password>@cluster0.mongodb.net/whcDB?retryWrites=true&w=majority
 PORT=5000
 JWT_SECRET=your-jwt-secret
