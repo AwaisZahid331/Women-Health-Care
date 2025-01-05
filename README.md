@@ -1,6 +1,4 @@
-Here’s a consolidated version of your WHC platform documentation in one file, with all the features, technologies, and instructions included. You can copy and paste this directly into a single file for ease of use.
 
-```markdown
 # Women’s Health Care (WHC) Platform
 
 The WHC Platform is an all-inclusive web application designed to support women’s physical and mental health. It provides personalized health tips, symptom tracking for women-specific conditions, daily exercise routines, mental wellness practices, consultations with healthcare professionals, and a private AI-powered chatbot. The platform empowers women to take charge of their health by offering holistic services.
